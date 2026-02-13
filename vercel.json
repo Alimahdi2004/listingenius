@@ -1,5 +1,4 @@
 {
-  "rewrites": [
-    { "source": "/api/(.*)", "destination": "/api/index.py" }
-  ]
+  "buildCommand": null,
+  "outputDirectory": null
 }
